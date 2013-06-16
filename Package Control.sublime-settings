@@ -1,0 +1,26 @@
+{
+	"installed_packages":
+	[
+		"Base16 Color Schemes",
+		"BeautifyRuby",
+		"Color Schemes by carlcalderon",
+		"ColorSchemeSelector",
+		"FileDiffs",
+		"Function Name Display",
+		"MarkdownBuild",
+		"MarkdownEditing",
+		"Package Control",
+		"Pretty JSON",
+		"PythonTidy",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Theme - Flatland",
+		"Theme - Phoenix",
+		"Theme - Soda",
+		"Wombat Theme"
+	],
+	"repositories":
+	[
+		"https://github.com/thinkpixellab/flatland/ "
+	]
+}

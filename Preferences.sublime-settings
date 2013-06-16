@@ -1,0 +1,21 @@
+{
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"MarkdownEditing"
+	],
+	"soda_classic_tabs": false,
+	"theme": "Soda Dark.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"wombat_tabs_medium": true,
+	"word_wrap": true
+}
